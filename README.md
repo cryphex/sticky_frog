@@ -16,11 +16,7 @@
 Ensure you have **Python 3.8+** installed on your system.
 
 ### 2. Install Dependencies
-Clone this repository or copy the code, then install the required libraries:
-```bash
-pip install discord.py python-dotenv
-```
-or install them by using the **requirements.txt** file:
+Clone this repository or copy the code, then install the required libraries by using the **requirements.txt** file:
 ```bash
 pip install -r requirements.txt
 ```
