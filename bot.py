@@ -6,7 +6,7 @@ import asyncio
 import time
 from dotenv import load_dotenv
 
-import webserver  # required for keep alive on render
+import webserver #required for render
 
 load_dotenv()
 
@@ -175,5 +175,5 @@ async def on_message(message: discord.Message):
         db_set_sticky(channel_id, entry["server_id"], entry["message_content"], new_msg.id)
 
 
-webserver.keep_alive()  # keep alive on render
+webserver.keep_alive() #keep alive
 client.run(TOKEN)
