@@ -1,6 +1,6 @@
 # 🐸 Sticky Frog
 
-**Sticky Frog** is a simple, powerful Discord bot designed to keep important messages "stuck" at the bottom of a channel. Whenever new messages are sent, the bot automatically deletes its previous post and resends the sticky message so it remains visible to everyone.
+**Sticky Frog 🐸** is a simple, powerful Discord bot designed to keep important messages "stuck" at the bottom of a channel. Whenever new messages are sent, the bot automatically deletes its previous post and resends the sticky message so it remains visible to everyone.
 
 ## ✨ Features
 
