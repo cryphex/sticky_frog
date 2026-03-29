@@ -13,7 +13,7 @@ load_dotenv()
 TOKEN = os.getenv("DISCORD_BOT_TOKEN")
 DB_PATH = os.path.join(os.path.dirname(__file__), "sticky.db")
 
-message_cooldown = 3  # forced cooldown in secs
+message_cooldown = 3 #forced cooldown in secs
 
 intents = discord.Intents.default()
 intents.message_content = True
@@ -142,7 +142,7 @@ async def on_ready():
     init_db()
     load_cache()
     await tree.sync()
-    print(f"Running as {client.user}")
+    print(f"Logged in as {client.user}")
 
 
 @client.event
