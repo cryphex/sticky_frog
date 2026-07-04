@@ -47,4 +47,4 @@ This Privacy Policy may be updated from time to time without any additional anno
 
 ## 📬 Contact
 
-If you have questions about this Privacy Policy, please contact **xxbinko** via Discord.
+If you have questions about this Privacy Policy, please contact **larsxp** via Discord.
